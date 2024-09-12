@@ -14,7 +14,7 @@
 
 Resumo aula 01 (04/09)
 - Ao incio da aula a professora pediu para que fizemos login/criassemos a conta no Github(QUem não fez na aula anterior);
-- Após um periodo foi inciada a aula com o slide "3 - GitHub e Markdown";
+- Após um periodo foi inciada a aula com o slide "3 - GitHub e Markdown"; Sendo explicado o github era meio que uma "Rede Social dos programadores";
 - Posteriormente foi comentado sobre algumas "girias" utilizadas no mercado de programação e mostrado a importancia dos arquivo README.md nos lugares;
 - Ao fim da explicação, fomos orientados a criar um repositorio no perfil para a publicação da aula e ensimento de alguns comandos que podem ser uteis para o readme
 como: o uso do "-" para criação de listas, do"#" para geração do Titulo e texto maiores para ficarem em destaque, "*" para deixar um texto em italico, "$" para deixar o texto com uma fonte diferente da usada, %asa%
